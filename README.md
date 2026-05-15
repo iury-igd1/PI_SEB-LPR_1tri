@@ -55,7 +55,7 @@ A leitura de matrícula foi simulada utilizando uma variável em modo Debug do S
 
 ## 🎥 Demonstração em Vídeo
 
-▶ [Assistir apresentação no YouTube](LINK_DO_VIDEO)
+▶ [Assistir apresentação no YouTube](https://youtu.be/M9W3hgQNasE)
 
 ---
 
