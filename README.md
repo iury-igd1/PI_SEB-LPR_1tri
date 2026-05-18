@@ -48,7 +48,6 @@ A leitura de matrícula foi simulada utilizando uma variável em modo Debug do S
 - Bloqueio progressivo após múltiplas tentativas inválidas de autenticação;
 - Simulação de leitura de matrícula via modo Debug;
 - Atualização do display baseada em mudança de estados;
-- Debounce de software para evitar múltiplos acionamentos dos botões;
 - Organização do sistema utilizando máquina de estados.
 
 ---
@@ -73,7 +72,7 @@ A leitura de matrícula foi simulada utilizando uma variável em modo Debug do S
 1. Clone o repositório;
 2. Abra o projeto no STM32CubeIDE;
 3. Compile o código;
-4. Grave na placa STM32;
+4. Grave na placa STM32F103C8;
 5. Execute em modo Debug do STM32CubeIDE.
 
 ---
